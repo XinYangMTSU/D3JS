@@ -12,10 +12,20 @@ The reason why D3 uses SVGs rather than images to display data is they don't los
 Something that you will notice about this code is that you need to define this SVG tag to surround everything that we want to render. That SVG tag represents the "canvas" that we'll be drawing on. Any SVG that we try to  draw outside of the canvas won't appear on the screen.
 
 ## SVG Coordinates
+
 ## Adding SVGs with D3
+
 ### D3 Select - use D3 grab hold of elements on the screen
+D3 select uses CSS selectors to return page elemetns, in a similar way to how jQuery works.
+The regular select function will return one element, and selectAll will return all of the matching elements on the page.
+
 ### D3 Append - how to add SVGs onto your selection
+Once we have an element selected, we can use D3's append method to add something to it. 
+Append takes one argument, which is the type of the element that we want to add to the screen.
+
 ### D3 Attr - set attributes of SVGs to make them appear on the screen
+To set the attributes of an SVG, we can pass values in with the attr method, which is a special D3 function that can alter attributes.
+
 ### Method Chaining in D3 
 
 
