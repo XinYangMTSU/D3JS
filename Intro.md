@@ -7,3 +7,4 @@ In this chapter, you’ll learn the basics of D3JS:
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. SVGs (Scalable Vector Graphics)`
 
+The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space.
