@@ -12,6 +12,9 @@ The reason why D3 uses SVGs rather than images to display data is they don't los
 Something that you will notice about this code is that you need to define this SVG tag to surround everything that we want to render. That SVG tag represents the "canvas" that we'll be drawing on. Any SVG that we try to  draw outside of the canvas won't appear on the screen.
 
 ## 1. Introduction to D3JS
+### What is D3JS ?
+### Why D3JS?
+
 ## 2. SVG Coordinates
 
 ## 2.1 Adding SVGs with D3
