@@ -1,5 +1,5 @@
 
-<center> # Introduction to D3JS </center>
+# Introduction to D3JS
 
 In this chapter, you’ll learn the basics of D3JS:
 
