@@ -1,11 +1,8 @@
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" height=300/>
-  Xin Yang
-  Augustana College
 </p>
 <center>
   <h3> Xin Yang </h3>
-  <h3> Augustana College</h3>
 </center>
 <h1> 1. Introduction to D3.js </h1>
 ### What is D3.js ?
