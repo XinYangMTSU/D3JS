@@ -1,6 +1,3 @@
-
-# Introduction to D3JS
-
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" height=300/>
 </p>
