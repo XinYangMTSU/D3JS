@@ -1,7 +1,5 @@
 
-<p align="center">
 # Introduction to D3JS
-</p>
 
 In this chapter, you’ll learn the basics of D3JS:
 
