@@ -1,6 +1,10 @@
+# Learn D3.js in 30 minutes
+
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" height=300/>
+  by Xin Yang
 </p>
+
 
 <h1> 1. Introduction to D3.js </h1>
 ### What is D3.js ?
