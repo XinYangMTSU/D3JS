@@ -37,6 +37,9 @@ In this tutorial, we will explore the basic concepts and features of D3.js.
 
 #### SVG stands for Scalable Vector Graphic. It is a vector image format. Basically, it is a language that allows to build shapes with code. A d3.js chart is actually a set of svg shapes put together. For instant, a scatterplot is just composed by several circles as the one shown below. This document of the d3 graph gallery showcases the different shapes offered by Svg.
 
+Scalable Vector Graphics (SVG) is a way to render graphical elements and images in the DOM.
+D3 uses SVG to create all its visuals, and therefore it is a core building block of the library.
+
 The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space.
 
 Something that you will notice about this code is that you need to define this SVG tag to surround everything that we want to render. That SVG tag represents the "canvas" that we'll be drawing on. Any SVG that we try to  draw outside of the canvas won't appear on the screen.
