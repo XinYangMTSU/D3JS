@@ -9,7 +9,9 @@
 </p>
 
 <h1> 1. Introduction to D3.js </h1>
+
 ### What is D3.js ?
+
   D3.js is a JavaScript library for manipulating documents based on data, which produces dynamic and interactive data     
   visualizations.
   
