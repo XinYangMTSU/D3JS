@@ -89,9 +89,22 @@ We pass in the attribute we want to set as the first argument to this attr metho
 We're passing the result of our first method call onto our second method call, which are're then passing on to our third method call, and so on...
 
 # `4. Selections and Data Joins`
+
 Now that you know how to work with SVGs and JavaScript, it's time to actually do something with them.
 The whole point of D3 is that we need to tie these SVGs to data, giving us Data Driven Documents. Once we can associate these elements with a piece of data, this lets us tweak their attributs to show something about the data that they represent.
 One of the key features behind the D-3 library is the ability to perform a data join. D3 reads in an array of data and associates each item of the array with an SVG. 
+
+## Here in the example below, a rectangle is being drawn using D3 in an SVG container.
+
+//Select SVG element
+` var svg = d3.select('svg'); `
+//Create rectangle element inside SVG
+` svg.append('rect')   
+   .attr('x', 50)   
+   .attr('y', 50)   
+   .attr('width', 200)   
+   .attr('height', 100)   
+   .attr('fill', 'green');`
 
 # `5. Loading External Data`
 
