@@ -20,6 +20,9 @@ Something that you will notice about this code is that you need to define this S
   D3.js is a JavaScript library for manipulating documents based on data. 
   D3 helps you bring data to life using HTML, SVG, and CSS.
 ### Why D3JS?
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Flexibility)`
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. Elegance)`
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `3. Community)`
 
 ## 2. Understanding SVGs
 #### What is SVGs?
