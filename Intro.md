@@ -15,9 +15,11 @@ Something that you will notice about this code is that you need to define this S
 ### What is D3JS ?
 ### Why D3JS?
 
-## 2. SVG Coordinates
+## 2. Understanding SVGs
+#### What is SVGs?
+### SVG Coordinates
 
-## 2.1 Adding SVGs with D3
+## 3. Adding SVGs with D3
 
 ### D3 Select - use D3 grab hold of elements on the screen
 D3 select uses CSS selectors to return page elemetns, in a similar way to how jQuery works.
@@ -34,11 +36,11 @@ We pass in the attribute we want to set as the first argument to this attr metho
 ### Method Chaining in D3 
 We're passing the result of our first method call onto our second method call, which are're then passing on to our third method call, and so on...
 
-## 3. Selections and Data Joins
+## 4. Selections and Data Joins
 Now that you know how to work with SVGs and JavaScript, it's time to actually do something with them.
 The whole point of D3 is that we need to tie these SVGs to data, giving us Data Driven Documents. Once we can associate these elements with a piece of data, this lets us tweak their attributs to show something about the data that they represent.
 One of the key features behind the D-3 library is the ability to perform a data join. D3 reads in an array of data and associates each item of the array with an SVG. 
 
-## 4. Loading External Data
+## 5. Loading External Data
 
 
