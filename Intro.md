@@ -4,8 +4,10 @@
 
 ## 1. Introduction to D3JS
 ### What is D3JS ?
-  D3.js is a JavaScript library for manipulating documents based on data. 
+  D3.js is a JavaScript library for manipulating documents based on data, which produces dynamic and interactive data     
+  visualizations.
   D3 helps you bring data to life using HTML, SVG, and CSS.
+  
 ### Why D3JS?
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Flexibility `
 
