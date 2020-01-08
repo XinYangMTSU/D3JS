@@ -17,6 +17,8 @@ Something that you will notice about this code is that you need to define this S
 
 ## 1. Introduction to D3JS
 ### What is D3JS ?
+  D3.js is a JavaScript library for manipulating documents based on data. 
+  D3 helps you bring data to life using HTML, SVG, and CSS.
 ### Why D3JS?
 
 ## 2. Understanding SVGs
