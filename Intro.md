@@ -68,7 +68,7 @@ Something that you will notice about this code is that you need to define this S
 
 As D3.js is a JavaScript library, you can simply include it in your HTML file inside a script tag.
 
-# `<script src='https://d3js.org/d3.v4.min.js'></script>`
+## `<script src='https://d3js.org/d3.v4.min.js'></script>`
 
 ### D3 Select - use D3 grab hold of elements on the screen
 D3 select uses CSS selectors to return page elemetns, in a similar way to how jQuery works.
