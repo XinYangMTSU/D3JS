@@ -28,19 +28,21 @@ Something that you will notice about this code is that you need to define this S
 
 ### SVG Coordinates
 
-### Example 1:
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/2.png" alt="common"/>
 </p>
-### Example 2:
+
+### Example 1:
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/3.png" alt="common"/>
 </p>
-### Example 3:
+
+### Example 2:
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/4.png" alt="common"/>
 </p>
-### Example 4:
+
+### Example 3:
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/5.png" alt="common"/>
 </p>
