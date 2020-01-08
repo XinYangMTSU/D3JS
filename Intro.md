@@ -12,6 +12,8 @@
 
 ### What is D3.js ?
 
+  D3.js is a data-driven JavaScript library for manipulating DOM elements.
+  
   D3.js is a JavaScript library for manipulating documents based on data, which produces dynamic and interactive data     
   visualizations.
   
@@ -39,6 +41,8 @@ In this tutorial, we will explore the basic concepts and features of D3.js.
 
 Scalable Vector Graphics (SVG) is a way to render graphical elements and images in the DOM.
 D3 uses SVG to create all its visuals, and therefore it is a core building block of the library.
+
+SVG has a coordinate system that starts from the top left corner (0;0). Positive x-axis goes to the right, while the positive y-axis heads to the bottom. Thus, the height of the SVG has to be taken into consideration when it comes to calculating the y coordinate of an element.
 
 The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space.
 
