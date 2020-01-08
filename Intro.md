@@ -2,13 +2,13 @@
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" height=300/>
 </p>
 
-## 1. Introduction to D3JS
-### What is D3JS ?
+## 1. Introduction to D3.js
+### What is D3.js ?
   D3.js is a JavaScript library for manipulating documents based on data, which produces dynamic and interactive data     
   visualizations.
   The data is showcased with the help of HTML, SVG and CSS, through D3.js and by binding DOM framework or Document Object Model elements. And, it lets you build the kind of data visualization framework that you need for your project.
   
-### Why D3JS?
+### Why D3.js?
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Free and Open source `
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `2. Flexibility `
