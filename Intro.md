@@ -2,7 +2,7 @@
 # Introduction to D3JS
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" width=200/>
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" height=400/>
 </p>
 
 In this chapter, you’ll learn the basics of D3JS:
