@@ -1,5 +1,7 @@
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" height=300/>
+  Xin Yang
+  Augustana College
 </p>
 <center>
   <h3> Xin Yang </h3>
