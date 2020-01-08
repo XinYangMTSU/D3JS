@@ -42,13 +42,17 @@ In this tutorial, we will explore the basic concepts and features of D3.js.
 Scalable Vector Graphics (SVG) is a way to render graphical elements and images in the DOM.
 D3 uses SVG to create all its visuals, and therefore it is a core building block of the library.
 
-SVG has a coordinate system that starts from the top left corner (0;0). Positive x-axis goes to the right, while the positive y-axis heads to the bottom. Thus, the height of the SVG has to be taken into consideration when it comes to calculating the y coordinate of an element.
-
 The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space.
 
 Something that you will notice about this code is that you need to define this SVG tag to surround everything that we want to render. That SVG tag represents the "canvas" that we'll be drawing on. Any SVG that we try to  draw outside of the canvas won't appear on the screen.
 
 ### SVG Coordinates
+
+SVG has a coordinate system that starts from the top left corner (0;0). Positive x-axis goes to the right, while the positive y-axis heads to the bottom. Thus, the height of the SVG has to be taken into consideration when it comes to calculating the y coordinate of an element.
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/svg.png" alt="common"/>
+</p>
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/2.png" alt="common"/>
