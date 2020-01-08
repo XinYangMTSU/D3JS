@@ -102,7 +102,7 @@ One of the key features behind the D-3 library is the ability to perform a data 
 
 //Create rectangle element inside SVG
 
-## ` svg.append('rect')   
+## ` svg.append('rect')`
    .attr('x', 50)   
    .attr('y', 50)   
    .attr('width', 200)   
