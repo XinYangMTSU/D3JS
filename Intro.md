@@ -54,21 +54,24 @@ SVG has a coordinate system that starts from the top left corner (0;0). Positive
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/svg.png" alt="common"/>
 </p>
 
+### Let’s write some code!
+
+### Example 1:
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/2.png" alt="common"/>
 </p>
 
-### Example 1:
+### Example 2:
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/3.png" alt="common"/>
 </p>
 
-### Example 2:
+### Example 3:
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/4.png" alt="common"/>
 </p>
 
-### Example 3:
+### Example 4:
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/5.png" alt="common"/>
 </p>
