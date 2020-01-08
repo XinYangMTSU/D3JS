@@ -9,17 +9,23 @@
   The data is showcased with the help of HTML, SVG and CSS, through D3.js and by binding DOM framework or Document Object Model elements. And, it lets you build the kind of data visualization framework that you need for your project.
   
 ### Why D3JS?
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Flexibility `
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Free and Open source `
 
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `2. Elegance `
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `2. Flexibility `
 
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `3. Community `
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `3. Elegance `
+
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `4. Community `
 
 ## 2. Understanding SVGs
-#### What is SVGs?
+### What is SVGs?
+
+#### SVG stands for Scalable Vector Graphic. It is a vector image format. Basically, it is a language that allows to build shapes with code. A d3.js chart is actually a set of svg shapes put together. For instant, a scatterplot is just composed by several circles as the one shown below. This document of the d3 graph gallery showcases the different shapes offered by Svg.
+
 The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space.
 
 Something that you will notice about this code is that you need to define this SVG tag to surround everything that we want to render. That SVG tag represents the "canvas" that we'll be drawing on. Any SVG that we try to  draw outside of the canvas won't appear on the screen.
+
 ### SVG Coordinates
 
 ## 3. Adding SVGs with D3
