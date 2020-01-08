@@ -2,7 +2,7 @@
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" height=300/>
 </p>
 <center>
-  <h3> Xin Yang </h3>
+  Xin Yang
 </center>
 <h1> 1. Introduction to D3.js </h1>
 ### What is D3.js ?
