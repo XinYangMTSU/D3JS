@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" height=300/>
-  by Xin Yang
 </p>
 
 <p align="center">
