@@ -20,6 +20,8 @@
   It uses HTML, CSS, and SVG to create visual representations of data which can be viewed on any modern browser.
 
 It also provides some awesome features for interactions and animations.
+
+In this tutorial, we will explore the basic concepts and features of D3.js. 
   
 ### Why D3.js?
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Free and Open source `
@@ -61,6 +63,12 @@ Something that you will notice about this code is that you need to define this S
 </p>
 
 ## 3. Adding SVGs with D3
+
+### Getting started with D3
+
+As D3.js is a JavaScript library, you can simply include it in your HTML file inside a script tag.
+
+`<script src='https://d3js.org/d3.v4.min.js'><;/script>`
 
 ### D3 Select - use D3 grab hold of elements on the screen
 D3 select uses CSS selectors to return page elemetns, in a similar way to how jQuery works.
