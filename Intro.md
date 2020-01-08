@@ -2,7 +2,7 @@
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" height=300/>
 </p>
 
-## 1. Introduction to D3.js
+<h2> 1. Introduction to D3.js </h2>
 ### What is D3.js ?
   D3.js is a JavaScript library for manipulating documents based on data, which produces dynamic and interactive data     
   visualizations.
