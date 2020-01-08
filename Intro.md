@@ -96,18 +96,9 @@ One of the key features behind the D-3 library is the ability to perform a data 
 
 ## Here in the example below, a rectangle is being drawn using D3 in an SVG container.
 
-//Select SVG element
-
-## `var svg = d3.select('svg'); `
-
-//Create rectangle element inside SVG
-
-## ` svg.append('rect')`
-   .attr('x', 50)   
-   .attr('y', 50)   
-   .attr('width', 200)   
-   .attr('height', 100)   
-   .attr('fill', 'green');`
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/rec.png" alt="common"/>
+</p>
 
 # `5. Loading External Data`
 
