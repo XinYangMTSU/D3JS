@@ -5,6 +5,9 @@
   by Xin Yang
 </p>
 
+<p align="center">
+  by Xin Yang
+</p>
 
 <h1> 1. Introduction to D3.js </h1>
 ### What is D3.js ?
