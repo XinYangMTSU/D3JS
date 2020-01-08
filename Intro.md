@@ -28,6 +28,19 @@ Something that you will notice about this code is that you need to define this S
 
 ### SVG Coordinates
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/2.png" alt="common"/>
+</p>
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/3.png" alt="common"/>
+</p>
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/4.png" alt="common"/>
+</p>
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/5.png" alt="common"/>
+</p>
+
 ## 3. Adding SVGs with D3
 
 ### D3 Select - use D3 grab hold of elements on the screen
