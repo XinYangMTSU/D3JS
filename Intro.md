@@ -1,7 +1,7 @@
 # Learn D3.js in 30 minutes
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" height=300/>
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" width = 600 height=300/>
 </p>
 
 <p align="center">
