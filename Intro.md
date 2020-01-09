@@ -123,6 +123,11 @@ One of the key features behind the D-3 library is the ability to perform a data 
 
 # `3. Scales and Axes`
 
+## `3.1 Linear Scale`
+
+## `3.2 Band Scale`
+## `3.3 Margins and Groups`
+
 # `4. Make it Interactive`
 
 # `5. Some cool examples of D3 projects`
