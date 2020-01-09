@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <h3> by Xin Yang </h3>
+   by Xin Yang
 </p>
 
 # `1. Introduction to D3.js`
