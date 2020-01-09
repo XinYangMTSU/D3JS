@@ -1,4 +1,6 @@
-# Learn D3.js in 30 minutes
+<p align="center">
+  <h1> Learn D3.js in 30 minutes </h1>
+</p>
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/1.png" alt="common" width = 800 height=300/>
