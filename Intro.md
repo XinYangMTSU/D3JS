@@ -10,7 +10,7 @@
 
 # `1. Introduction to D3.js`
 
-### What is D3.js ?
+## 1.1 What is D3.js ?
 
   D3.js is a data-driven JavaScript library for manipulating DOM elements.
   
@@ -34,13 +34,13 @@ In this tutorial, we will explore the basic concepts and features of D3.js.
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `4. Community `
 
-# `2. Setting up the Environment`
+## `1.2 Setting up the Environment`
 
 ## Web Browser - Chrome
 ## Text Editor - Atom
 ## Python - HTTP Server
 
-# `3. Understanding SVGs`
+## `1.3 Understanding SVGs`
 ### What is SVGs?
 
 #### SVG stands for Scalable Vector Graphic. It is a vector image format. Basically, it is a language that allows to build shapes with code. A d3.js chart is actually a set of svg shapes put together. For instant, a scatterplot is just composed by several circles as the one shown below. This document of the d3 graph gallery showcases the different shapes offered by Svg.
@@ -82,9 +82,9 @@ SVG has a coordinate system that starts from the top left corner (0;0). Positive
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/5.png" alt="common"/>
 </p>
 
-# `4. Adding SVGs with D3`
+# 2. Getting started with D3
 
-### Getting started with D3
+## `2.1 Adding SVGs with D3`
 
 As D3.js is a JavaScript library, you can simply include it in your HTML file inside a script tag.
 
@@ -111,17 +111,15 @@ We're passing the result of our first method call onto our second method call, w
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/rec.png" alt="common"/>
 </p>
 
-# `5. Selections and Data Joins`
+## `2.2 Selections and Data Joins`
 
 Now that you know how to work with SVGs and JavaScript, it's time to actually do something with them.
 The whole point of D3 is that we need to tie these SVGs to data, giving us Data Driven Documents. Once we can associate these elements with a piece of data, this lets us tweak their attributs to show something about the data that they represent.
 One of the key features behind the D-3 library is the ability to perform a data join. D3 reads in an array of data and associates each item of the array with an SVG. 
 
+## `2.3 Loading External Data`
 
-
-# `6. Loading External Data`
-
-# `7. Some cool examples of D3 projects`
+# `4. Some cool examples of D3 projects`
 
 The visualization will be far more useful if the user could explore the data with some more advanced features.
 
