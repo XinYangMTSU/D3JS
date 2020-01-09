@@ -154,6 +154,8 @@ Have translation attributes for moving multiple SVGs at once
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/svgGroup.png" alt="common"/>
 </p>
 
+## `3.4 Axes and Labels`
+
 # `4. Make it Interactive`
 
 # `5. Some cool examples of D3 projects`
