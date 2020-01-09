@@ -10,7 +10,7 @@
 
 # `1. Introduction to D3.js`
 
-## 1.1 What is D3.js ?
+## `1.1 What is D3.js ?`
 
   D3.js is a data-driven JavaScript library for manipulating DOM elements.
   
