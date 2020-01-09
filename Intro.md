@@ -125,7 +125,19 @@ One of the key features behind the D-3 library is the ability to perform a data 
 
 ## `3.1 Linear Scale`
 ## `3.2 Band Scale`
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/bandScale.png" alt="common"/>
+</p>
+
 ## `3.3 Margins and Groups`
+
+### Margin Convention
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/margin.png" alt="common"/>
+</p>
+
 Introduction to SVG groups, to structure elements together on the page
 
 Using transformations to alter SVGs's position
@@ -137,6 +149,10 @@ Following the D3 margin convention to give us a space to put our axes
 Groups are invisible containers for structuring SVGs
 
 Have translation attributes for moving multiple SVGs at once
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/svgGroup.png" alt="common"/>
+</p>
 
 # `4. Make it Interactive`
 
