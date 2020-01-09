@@ -119,7 +119,10 @@ One of the key features behind the D-3 library is the ability to perform a data 
 
 ## `2.3 Loading External Data`
 
-# `4. Some cool examples of D3 projects`
+# `3. Scales and Axes`
+
+# `4. Make it Interactive`
+
+# `5. Some cool examples of D3 projects`
 
 The visualization will be far more useful if the user could explore the data with some more advanced features.
-
