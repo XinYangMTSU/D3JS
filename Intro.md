@@ -135,6 +135,7 @@ Following the D3 margin convention to give us a space to put our axes
 ### SVG Groups
 
 Groups are invisible containers for structuring SVGs
+
 Have translation attributes for moving multiple SVGs at once
 
 # `4. Make it Interactive`
