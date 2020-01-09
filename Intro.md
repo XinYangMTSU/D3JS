@@ -34,7 +34,13 @@ In this tutorial, we will explore the basic concepts and features of D3.js.
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `4. Community `
 
-# `2. Understanding SVGs`
+# `2. Setting up the Environment`
+
+## Web Browser - Chrome
+## Text Editor - Atom
+## Python - HTTP Server
+
+# `3. Understanding SVGs`
 ### What is SVGs?
 
 #### SVG stands for Scalable Vector Graphic. It is a vector image format. Basically, it is a language that allows to build shapes with code. A d3.js chart is actually a set of svg shapes put together. For instant, a scatterplot is just composed by several circles as the one shown below. This document of the d3 graph gallery showcases the different shapes offered by Svg.
@@ -76,7 +82,7 @@ SVG has a coordinate system that starts from the top left corner (0;0). Positive
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/5.png" alt="common"/>
 </p>
 
-# `3. Adding SVGs with D3`
+# `4. Adding SVGs with D3`
 
 ### Getting started with D3
 
@@ -105,7 +111,7 @@ We're passing the result of our first method call onto our second method call, w
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/rec.png" alt="common"/>
 </p>
 
-# `4. Selections and Data Joins`
+# `5. Selections and Data Joins`
 
 Now that you know how to work with SVGs and JavaScript, it's time to actually do something with them.
 The whole point of D3 is that we need to tie these SVGs to data, giving us Data Driven Documents. Once we can associate these elements with a piece of data, this lets us tweak their attributs to show something about the data that they represent.
@@ -113,6 +119,6 @@ One of the key features behind the D-3 library is the ability to perform a data 
 
 
 
-# `5. Loading External Data`
+# `6. Loading External Data`
 
-# `6. Some cool examples of D3 projects`
+# `7. Some cool examples of D3 projects`
