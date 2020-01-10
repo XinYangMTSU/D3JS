@@ -38,9 +38,9 @@ In this tutorial, we will explore the basic concepts and features of D3.js.
 
 ## `1.2 Setting up the Environment`
 
-## Web Browser - Chrome
-## Text Editor - Atom
-## Python - HTTP Server
+### Web Browser - Chrome
+### Text Editor - Atom
+### Python - HTTP Server
 
 ## `1.3 Understanding SVGs`
 ### What is SVGs?
