@@ -36,6 +36,12 @@ In this tutorial, we will explore the basic concepts and features of D3.js.
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `4. Community `
 
+Total Solar Eclipse :
+https://www.washingtonpost.com/graphics/national/eclipse/?utm_term=.e6ff1881391e
+
+Next America :
+https://www.pewresearch.org/next-america/#Two-Dramas-in-Slow-Motion
+
 # `2. Getting started with D3`
 
 ## `2.1 Setting up the Environment`
