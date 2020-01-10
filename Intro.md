@@ -36,7 +36,7 @@ In this tutorial, we will explore the basic concepts and features of D3.js.
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `4. Community `
 
-# 2. Getting started with D3
+# `2. Getting started with D3`
 
 ## `2.1 Setting up the Environment`
 
