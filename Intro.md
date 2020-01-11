@@ -138,6 +138,11 @@ SVG has a coordinate system that starts from the top left corner (0;0). Positive
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/line.png" alt="common"/>
 </p>
 
+### Example 8:
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/text.png" alt="common"/>
+</p>
+
 ## `2.3 Adding SVGs with D3`
 
 As D3.js is a JavaScript library, you can simply include it in your HTML file inside a script tag.
