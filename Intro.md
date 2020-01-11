@@ -181,11 +181,13 @@ To set the attributes of an SVG, we can pass values in with the attr method, whi
 We pass in the attribute we want to set as the first argument to this attr method, and the value that we want to give it as the second argument.
 
 ### `Method Chaining` in D3 
-We're passing the result of our first method call onto our second method call, which are're then passing on to our third method call, and so on...
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/chain.png" alt="common"/>
 </p>
+
+Although we could write our code as it is on the left, in D3 we will almost always be writing it out as it is on the right.
+This is called method chaining, we're passing the result of our first method call onto our second method call, which are're then passing on to our third method call, and so on...
 
 ## Here in the example below, a rectangle is being drawn using D3 in an SVG container.
 
