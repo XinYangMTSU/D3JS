@@ -88,6 +88,8 @@ The reason why D3 uses SVGs rather than images to display data is they don't los
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/google.png" alt="common"/>
 </p>
 
+You can either include SVGs directly in an HTML file as you can see here, or you can add them in with JavaScript, as we'll do later and throughout most of the course.
+
 Something that you will notice about this code is that you need to define this SVG tag to surround everything that we want to render. That SVG tag represents the "canvas" that we'll be drawing on. Any SVG that we try to  draw outside of the canvas won't appear on the screen.
 
 
