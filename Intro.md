@@ -152,6 +152,8 @@ The final type of SVGs that D3 uses is called a path. A path is the most powerfu
 
 ## `2.3 Adding SVGs with D3`
 
+Although we've defined SVGs in this example using HTML-like syntax, when we use them in D3 code, we'll almost always be adding them to the canvas with JavaScript.
+
 As D3.js is a JavaScript library, you can simply include it in your HTML file inside a script tag.
 
 ### `<script src='https://d3js.org/d3.v4.min.js'></script>`
