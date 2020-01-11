@@ -62,9 +62,12 @@ As long as you are're always looking at your page through a local host server, t
 Now that we'are finished with set up we're ready to start learning about SVGs and how to add them into the screen.
 
 ## `2.2 Understanding SVGs`
-### What is SVGs?
 
-#### SVG stands for Scalable Vector Graphic. It is a vector image format. Basically, it is a language that allows to build shapes with code. A d3.js chart is actually a set of svg shapes put together. For instant, a scatterplot is just composed by several circles as the one shown below. This document of the d3 graph gallery showcases the different shapes offered by Svg.
+### What are SVGs?
+
+`SVG stands for Scalable Vector Graphic. It is a vector image format. Basically, it is a language that allows to build shapes with code. A d3.js chart is actually a set of svg shapes put together. For instant, a scatterplot is just composed by several circles as the one shown below. This document of the d3 graph gallery showcases the different shapes offered by Svg.`
+
+### Why does D3 use SVGs?
 
 Scalable Vector Graphics (SVG) is a way to render graphical elements and images in the DOM.
 D3 uses SVG to create all its visuals, and therefore it is a core building block of the library.
