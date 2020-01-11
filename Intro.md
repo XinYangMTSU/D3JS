@@ -183,6 +183,10 @@ We pass in the attribute we want to set as the first argument to this attr metho
 ### Method Chaining in D3 
 We're passing the result of our first method call onto our second method call, which are're then passing on to our third method call, and so on...
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/chain.png" alt="common"/>
+</p>
+
 ## Here in the example below, a rectangle is being drawn using D3 in an SVG container.
 
 <p align="center">
