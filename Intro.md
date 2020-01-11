@@ -207,6 +207,9 @@ Now that you know how to work with SVGs and JavaScript, it's time to actually do
 `The whole point of D3 is that we need to tie these SVGs to data, giving us Data Driven Documents.` Once we can associate these elements with a piece of data, this lets us tweak their attributs to show something about the data that they represent.
 One of the key features behind the D-3 library is the ability to perform a data join. D3 reads in an array of data and associates each item of the array with an SVG. 
 
+Let's take a look at a simple example!
+
+
 ## `2.5 Loading External Data`
 
 # `3. Scales and Axes`
