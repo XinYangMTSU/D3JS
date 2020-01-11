@@ -127,17 +127,17 @@ SVG has a coordinate system that starts from the top left corner (0;0). Positive
 
 As D3.js is a JavaScript library, you can simply include it in your HTML file inside a script tag.
 
-## `<script src='https://d3js.org/d3.v4.min.js'></script>`
+### `<script src='https://d3js.org/d3.v4.min.js'></script>`
 
-### D3 Select - use D3 grab hold of elements on the screen
+### D3 `select` - use D3 grab hold of elements on the screen
 D3 select uses CSS selectors to return page elemetns, in a similar way to how jQuery works.
 The regular select function will return one element, and selectAll will return all of the matching elements on the page.
 
-### D3 Append - how to add SVGs onto your selection
+### D3 `append` - how to add SVGs onto your selection
 Once we have an element selected, we can use D3's append method to add something to it. 
 Append takes one argument, which is the type of the element that we want to add to the screen.
 
-### D3 Attr - set attributes of SVGs to make them appear on the screen
+### D3 `attr` - set attributes of SVGs to make them appear on the screen
 To set the attributes of an SVG, we can pass values in with the attr method, which is a special D3 function that can alter attributes.
 We pass in the attribute we want to set as the first argument to this attr method, and the value that we want to give it as the second argument.
 
