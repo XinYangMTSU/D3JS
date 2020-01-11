@@ -172,6 +172,10 @@ The regular select function will return one element, and selectAll will return a
 Once we have an element selected, we can use D3's append method to add something to it. 
 Append takes one argument, which is the type of the element that we want to add to the screen.
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/append.png" alt="common"/>
+</p>
+
 ### D3 `attr` - set attributes of SVGs to make them appear on the screen
 To set the attributes of an SVG, we can pass values in with the attr method, which is a special D3 function that can alter attributes.
 We pass in the attribute we want to set as the first argument to this attr method, and the value that we want to give it as the second argument.
