@@ -63,6 +63,8 @@ Now that we'are finished with set up we're ready to start learning about SVGs an
 
 ## `2.2 Understanding SVGs`
 
+In this section, I'm going to go over some of the basics of SVGs, which D3 uses to visualize data on the screen. I'll teach you about how they're positioned, I'll show you some rules about placing SVGs, and I'll show you waht the syntax looks like in HTML.
+
 ### What are SVGs?
 
 `SVG stands for Scalable Vector Graphic. It is a vector image format. Basically, it is a language that allows to build shapes with code. A d3.js chart is actually a set of svg shapes put together. For instant, a scatterplot is just composed by several circles as the one shown below. This document of the d3 graph gallery showcases the different shapes offered by Svg.`
@@ -76,7 +78,7 @@ The reason why D3 uses SVGs rather than images to display data is they don't los
 
 Something that you will notice about this code is that you need to define this SVG tag to surround everything that we want to render. That SVG tag represents the "canvas" that we'll be drawing on. Any SVG that we try to  draw outside of the canvas won't appear on the screen.
 
-### SVG Coordinates
+### Introduction to the SVG Coordinate System
 
 SVG has a coordinate system that starts from the top left corner (0;0). Positive x-axis goes to the right, while the positive y-axis heads to the bottom. Thus, the height of the SVG has to be taken into consideration when it comes to calculating the y coordinate of an element.
 
