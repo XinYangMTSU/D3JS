@@ -67,7 +67,15 @@ In this section, I'm going to go over some of the basics of SVGs, which D3 uses 
 
 ### What are SVGs?
 
+SVG stands for Scalable Vector Graphics, are shapes that we can make in a browser window with code.  All that we need to do is pass in some simple information, such where we want to position a shape and how big it should be, and we'll be using some similar syntax and HTML to do this.
+
 `SVG stands for Scalable Vector Graphic. It is a vector image format. Basically, it is a language that allows to build shapes with code. A d3.js chart is actually a set of svg shapes put together. For instant, a scatterplot is just composed by several circles as the one shown below. This document of the d3 graph gallery showcases the different shapes offered by Svg.`
+
+#### `Draw shapes with computer code`
+#### `Rectangles, Circles, eclipse, lines, texts, and paths`
+#### `Markup code similar to HTML`
+#### `Small file size, don't lose any qulity re resized.`
+
 
 ### Why does D3 use SVGs?
 
