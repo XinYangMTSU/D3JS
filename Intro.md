@@ -84,7 +84,12 @@ D3 uses SVG to create all its visuals, and therefore it is a core building block
 
 The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space.
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/google.png" alt="common"/>
+</p>
+
 Something that you will notice about this code is that you need to define this SVG tag to surround everything that we want to render. That SVG tag represents the "canvas" that we'll be drawing on. Any SVG that we try to  draw outside of the canvas won't appear on the screen.
+
 
 ### Introduction to the SVG Coordinate System
 
