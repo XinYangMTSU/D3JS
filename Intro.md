@@ -143,6 +143,13 @@ SVG has a coordinate system that starts from the top left corner (0;0). Positive
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/text.png" alt="common"/>
 </p>
 
+### Example 9:
+The final type of SVGs that D3 uses is called a path. A path is the most powerful kind of SVG that we have avaible, and it can be used to create lines, curves, arcs and all kinds of complex shapes. 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/path.png" alt="common"/>
+</p>
+
+
 ## `2.3 Adding SVGs with D3`
 
 As D3.js is a JavaScript library, you can simply include it in your HTML file inside a script tag.
