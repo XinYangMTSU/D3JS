@@ -153,6 +153,8 @@ The final type of SVGs that D3 uses is called a path. A path is the most powerfu
 ## `2.3 Adding SVGs with D3`
 
 Although we've defined SVGs in this example using HTML-like syntax, when we use them in D3 code, we'll almost always be adding them to the canvas with JavaScript.
+Now that we know a little bit more about SVGs, I'm going to show you how to add them in D3, rather then in HTML file.
+I'll be introducing you to D3 select, D3 append, and D3 attr, which will be using together to make new shapes on the screen.
 
 As D3.js is a JavaScript library, you can simply include it in your HTML file inside a script tag.
 
@@ -161,6 +163,10 @@ As D3.js is a JavaScript library, you can simply include it in your HTML file in
 ### D3 `select` - use D3 grab hold of elements on the screen
 D3 select uses CSS selectors to return page elemetns, in a similar way to how jQuery works.
 The regular select function will return one element, and selectAll will return all of the matching elements on the page.
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/select.png" alt="common"/>
+</p>
 
 ### D3 `append` - how to add SVGs onto your selection
 Once we have an element selected, we can use D3's append method to add something to it. 
