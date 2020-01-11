@@ -57,6 +57,10 @@ For most of the visualizations, it is important to note that they'll need to run
 
 We can see that the server is working on port 8000. If we nagivate to our browser to local host 8000, then we should be able to see the files from the directory that we're looking at.
 
+As long as you are're always looking at your page through a local host server, then your visualization should show up.
+
+Now that we'are finished with set up we're ready to start learning about SVGs and how to add them into the screen.
+
 ## `2.2 Understanding SVGs`
 ### What is SVGs?
 
