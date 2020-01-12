@@ -209,6 +209,9 @@ One of the key features behind the D-3 library is the ability to perform a data 
 
 Let's take a look at a simple example!
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/join.png" alt="common"/>
+</p>
 
 ## `2.5 Loading External Data`
 
