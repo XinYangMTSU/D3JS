@@ -213,6 +213,8 @@ Let's take a look at a simple example!
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/join.png" alt="common"/>
 </p>
 
+Now our SVGs are reflecting something about the data. In the next section, we'll be working with a more complex array of data and learning how to load that data from a file.
+
 ## `2.5 Loading External Data`
 
 # `3. Scales and Axes`
