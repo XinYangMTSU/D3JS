@@ -231,7 +231,14 @@ D3 gives us these three functions to load in these files as array.
 
 # `3. Scales and Axes`
 
+What are Scales, and why do we need them? Scales are functions that map from an input domain to an output range.
+
 ## `3.1 Linear Scale`
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/linearScale.png" alt="common"/>
+</p>
+
 ## `3.2 Band Scale`
 
 <p align="center">
