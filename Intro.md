@@ -222,7 +222,9 @@ Now that we can see how D3 binds data to SVGs on a basic level, I'm going to sho
 D3 has a variety of different functiosn to handle data from external sources. 
 
 CSV - Comma seperated Values
+
 TSV - Tap seperated Values
+
 JSON - JavaScript Object Notation
 
 D3 gives us these three functions to load in these files as array.
