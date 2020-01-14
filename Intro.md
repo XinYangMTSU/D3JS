@@ -217,6 +217,16 @@ Now our SVGs are reflecting something about the data. In the next section, we'll
 
 ## `2.5 Loading External Data`
 
+Now that we can see how D3 binds data to SVGs on a basic level, I'm going to show you how to do the same thing with a real dataset so that we don't have to store everything in a variable. We can load data from CSV, TSV, and JSON files.
+
+D3 has a variety of different functiosn to handle data from external sources. 
+
+CSV - Comma seperated Values
+TSV - Tap seperated Values
+JSON - JavaScript Object Notation
+
+D3 gives us these three functions to load in these files as array.
+
 # `3. Scales and Axes`
 
 ## `3.1 Linear Scale`
