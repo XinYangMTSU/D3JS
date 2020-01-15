@@ -247,11 +247,23 @@ What are Scales, and why do we need them? Scales are functions that map from an 
 
 ## `3.3 Margins and Groups`
 
+### SVG Groups
+
+Groups are invisible containers for structuring SVGs
+
+Have translation attributes for moving multiple SVGs at once
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/svgGroup.png" alt="common"/>
+</p>
+
 ### Margin Convention
 
 The way that we implement the margin convention in D3 is by attaching everything to an SVGs group element.
 SVG group elements are containers for different shapes as elements groups don't have visual presence by themselves. 
 They are useful in D3 as they can bundle graphical elements together and apply transformations to many shapes at once.
+
+This code lays out the standard set up for our SVG canvas.
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/margin.png" alt="common"/>
@@ -263,17 +275,6 @@ Using transformations to alter SVGs's position
 
 Following the D3 margin convention to give us a space to put our axes
 
-### SVG Groups
-
-Groups are invisible containers for structuring SVGs
-
-Have translation attributes for moving multiple SVGs at once
-
-<p align="center">
-  <img src="https://github.com/XinYangSAU/D3JS/blob/master/svgGroup.png" alt="common"/>
-</p>
-
-This code lays out the standard set up for our SVG canvas.
 
 ## `3.4 Axes and Labels`
 
