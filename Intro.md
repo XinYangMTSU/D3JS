@@ -275,8 +275,16 @@ Using transformations to alter SVGs's position
 
 Following the D3 margin convention to give us a space to put our axes
 
+Let's work this margin convention into a bar chart to see how this looks like in practice.
+We'll be appending all of our rectangles to a group element and we'll need to leave enough space in the left and bottom margin
+for an x and y axes. We can always adjust these values later on if we end up needing a little more space than expected.
 
 ## `3.4 Axes and Labels`
+
+For most types of charts, it's important to have some kind of axes that give us a reference point to interpret data. 
+
+Using D3 axes generators in our bar chart to show the scale of our chart
+adding axis labels to tell us what we're looking at
 
 # `4. Make it Interactive`
 
