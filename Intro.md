@@ -286,6 +286,10 @@ For most types of charts, it's important to have some kind of axes that give us 
 Using D3 axes generators in our bar chart to show the scale of our chart
 adding axis labels to tell us what we're looking at
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/svgCo.png" alt="common"/>
+</p>
+
 # `4. Make it Interactive`
 
 # `5. Some cool examples of D3 projects`
