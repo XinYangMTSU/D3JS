@@ -229,6 +229,8 @@ JSON - JavaScript Object Notation
 
 D3 gives us these three functions to load in these files as array.
 
+Once the data has been loaded in. We can then access this data using the data arguments of this anonymous function.
+
 # `3. Scales and Axes`
 
 What are Scales, and why do we need them? Scales are functions that map from an input domain to an output range.
