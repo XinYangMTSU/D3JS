@@ -300,6 +300,10 @@ adding axis labels to tell us what we're looking at
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/tooltip.png" alt="common"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/event.png" alt="common"/>
+</p>
+
 # `5. Some cool examples of D3 projects`
 
 https://sxywu.com/travel/
