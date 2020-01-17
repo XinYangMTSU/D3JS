@@ -292,6 +292,14 @@ adding axis labels to tell us what we're looking at
 
 # `4. Make it Interactive`
 
+## Adding tooltips to let the user view the data that an SVG represents
+## Using plug-in library to expand on the power of D3: d3-tip
+## Using D3 formatting to render out text
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/tooltip.png" alt="common"/>
+</p>
+
 # `5. Some cool examples of D3 projects`
 
 https://sxywu.com/travel/
