@@ -294,4 +294,6 @@ adding axis labels to tell us what we're looking at
 
 # `5. Some cool examples of D3 projects`
 
+https://sxywu.com/travel/
+
 The visualization will be far more useful if the user could explore the data with some more advanced features.
