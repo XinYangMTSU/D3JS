@@ -93,8 +93,11 @@ A d3.js chart is actually a set of svg shapes put together. All that we need to 
 
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Draw shapes with computer code`
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Rectangles, Circles, eclipse, lines, texts, and paths`
+
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Markup code similar to HTML`
+
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Small file size, don't lose any qulity re resized.`
 
 </h3>
