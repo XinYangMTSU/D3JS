@@ -95,18 +95,21 @@ All that we need to do is pass in some simple information, such where we want to
 
 </h3>
 
-#### `Draw shapes with computer code`
-#### `Rectangles, Circles, eclipse, lines, texts, and paths`
-#### `Markup code similar to HTML`
-#### `Small file size, don't lose any qulity re resized.`
+### `2.2.2 Why does D3 use SVGs?`
 
-
-### Why does D3 use SVGs?
-
+<h3>
+  
 Scalable Vector Graphics (SVG) is a way to render graphical elements and images in the DOM.
 D3 uses SVG to create all its visuals, and therefore it is a core building block of the library.
 
 The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space.
+
+</h3>
+
+#### `Draw shapes with computer code`
+#### `Rectangles, Circles, eclipse, lines, texts, and paths`
+#### `Markup code similar to HTML`
+#### `Small file size, don't lose any qulity re resized.`
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/google.png" alt="common"/>
