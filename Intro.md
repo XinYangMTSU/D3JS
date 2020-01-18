@@ -43,11 +43,15 @@ In this tutorial, we will explore the basic concepts and features of D3.js.
 
 ## `1.3 Examples`
 
-Total Solar Eclipse :
+<h3>
+  
+### `1. Total Solar Eclipse` :
 https://www.washingtonpost.com/graphics/national/eclipse/?utm_term=.e6ff1881391e
 
-Next America :
+### `2. Next America` :
 https://www.pewresearch.org/next-america/#Two-Dramas-in-Slow-Motion
+
+</h3>
 
 # `2. Getting started with D3`
 
