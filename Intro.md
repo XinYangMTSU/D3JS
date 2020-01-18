@@ -251,13 +251,6 @@ The indents here are useful to break up our code, and to show which methods are 
 Something that might not be obvious is that each of these method calls returns something. We are only able to chain these methods together because each of the attr methods are returning the element that they're changing.  
 
 
-### Here in the example below, a rectangle is being drawn using D3 in an SVG container.
-
-<p align="center">
-  <img src="https://github.com/XinYangSAU/D3JS/blob/master/rec.png" alt="common"/>
-</p>
-
-
 ## `2.4 Selections and Data Joins`
 
 Now that you know how to work with SVGs and JavaScript, it's time to actually do something with them.
