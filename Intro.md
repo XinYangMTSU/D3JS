@@ -238,15 +238,11 @@ We pass in the attribute we want to set as the first argument to this attr metho
 ### `2.3.4 Method Chaining` in D3 
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/D3JS/blob/master/chain.png" alt="common"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/regVchain.png" alt="common"/>
 </p>
 
 Although we could write our code as it is on the left, in D3 we will almost always be writing it out as it is on the right.
-This is called method chaining, we're passing the result of our first method call onto our second method call, which are're then passing on to our third method call, and so on...
+This is called `method chaining`, we're passing the result of our first method call onto our second method call, which are're then passing on to our third method call, and so on...
 
 Our call to D3 select here returns SVG canvas, and we're calling our append method on this, which returns a blank rect tag. We're then calling our attr method on that rect tag, which returns the same red tag with an x value of 25, ....
 
