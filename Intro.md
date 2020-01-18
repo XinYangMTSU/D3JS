@@ -93,15 +93,6 @@ A d3.js chart is actually a set of svg shapes put together.
 
 All that we need to do is pass in some simple information, such where we want to position a shape and how big it should be, and we'll be using some similar syntax and HTML to do this.
 
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Draw shapes with computer code`
-
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Rectangles, Circles, eclipse, lines, texts, and paths`
-
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Markup code similar to HTML`
-
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Small file size, don't lose any qulity re resized.`
-
 </h3>
 
 ### `2.2.2 Why does D3 use SVGs?`
@@ -111,7 +102,7 @@ All that we need to do is pass in some simple information, such where we want to
 Scalable Vector Graphics (SVG) is a way to render graphical elements and images in the DOM.
 D3 uses SVG to create all its visuals, and therefore it is a core building block of the library.
 
-The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space.
+The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space. ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Small file size, don't lose any qulity re resized.`
 
 </h3>
 
@@ -141,6 +132,12 @@ Thus, the height of the SVG has to be taken into consideration when it comes to 
 </p>
 
 ### `2.2.4 Let’s write some code!`
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Draw shapes with computer code`
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Rectangles, Circles, eclipse, lines, texts, and paths`
+
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Markup code similar to HTML`
 
 ### Example 1:
 <p align="center">
