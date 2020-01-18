@@ -254,18 +254,18 @@ Something that might not be obvious is that each of these method calls returns s
 ## `2.4 Selections and Data Joins`
 
 Now that you know how to work with SVGs and JavaScript, it's time to actually do something with them.
-`The whole point of D3 is that we need to tie these SVGs to data, giving us Data Driven Documents.` Once we can associate these elements with a piece of data, this lets us tweak their attributs to show something about the data that they represent.
-One of the key features behind the D-3 library is the ability to perform a data join. D3 reads in an array of data and associates each item of the array with an SVG. 
 
-Let's take a look at a simple example!
+<h3>  
+`The whole point of D3 is that we need to tie these SVGs to data, giving us Data Driven Documents.` 
+</h3>
 
-<p align="center">
-  <img src="https://github.com/XinYangSAU/D3JS/blob/master/join.png" alt="common"/>
-</p>
+Once we can associate these elements with a piece of data, this lets us tweak their attributs to show something about the data that they represent.
 
-Now our SVGs are reflecting something about the data. In the next section, we'll be working with a more complex array of data and learning how to load that data from a file.
+One of the key features behind the D-3 library is the ability to perform a `data join`. `D3 reads in an array of data and associates each item of the array with an SVG`. 
 
-## `2.5 Loading External Data`
+We'll be working with and learning how to load that data from a file.
+
+### `2.4.1 Loading External Data`
 
 Now that we can see how D3 binds data to SVGs on a basic level, I'm going to show you how to do the same thing with a real dataset so that we don't have to store everything in a variable. We can load data from CSV, TSV, and JSON files.
 
