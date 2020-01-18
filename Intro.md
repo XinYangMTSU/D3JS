@@ -115,7 +115,6 @@ The reason why D3 uses SVGs rather than images to display data is they don't los
 
 </h3>
 
-
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/google.png" alt="common"/>
 </p>
@@ -129,15 +128,19 @@ Something that you will notice about this code is that you need to define this S
 
 <h3>
   
-SVG has a coordinate system that starts from the `top left corner (0;0)`. Positive x-axis goes to the right, while the positive y-axis heads to the bottom. Thus, the height of the SVG has to be taken into consideration when it comes to calculating the y coordinate of an element.
+SVG has a coordinate system that starts from the `top left corner (0;0)`. 
+
+Positive x-axis goes to the right, while the positive y-axis heads to the bottom. 
+
+Thus, the height of the SVG has to be taken into consideration when it comes to calculating the y coordinate of an element.
 
 </h3>
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/D3JS/blob/master/svg.png" width = 600 height = 400 alt="common"/>
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/svg.png" width = 600 height = 300 alt="common"/>
 </p>
 
-### Let’s write some code!
+### `2.2.4 Let’s write some code!`
 
 ### Example 1:
 <p align="center">
