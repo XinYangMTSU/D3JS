@@ -77,9 +77,13 @@ Now that we'are finished with set up we're ready to start learning about SVGs an
 
 ## `2.2 Understanding SVGs`
 
+<h3>
+
 In this section, I'm going to go over some of the basics of SVGs, which D3 uses to visualize data on the screen. I'll teach you about how they're positioned, I'll show you some rules about placing SVGs, and I'll show you waht the syntax looks like in HTML.
 
-### What are SVGs?
+</h3>
+
+### 2.2.1 What are SVGs?
 
 SVG stands for Scalable Vector Graphics, are shapes that we can make in a browser window with code.  All that we need to do is pass in some simple information, such where we want to position a shape and how big it should be, and we'll be using some similar syntax and HTML to do this.
 
