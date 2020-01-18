@@ -83,7 +83,7 @@ In this section, I'm going to go over some of the basics of SVGs, which D3 uses 
 
 </h3>
 
-### 2.2.1 What are SVGs?
+### `2.2.1 What are SVGs?`
 
 SVG stands for Scalable Vector Graphics, are shapes that we can make in a browser window with code.  All that we need to do is pass in some simple information, such where we want to position a shape and how big it should be, and we'll be using some similar syntax and HTML to do this.
 
