@@ -213,11 +213,13 @@ As D3.js is a JavaScript library, you can simply include it in your HTML file in
 
 ### `<script src='https://d3js.org/d3.v4.min.js'></script>`
 
-### 2.3.1 D3 `select` - use D3 grab hold of elements on the screen
+### `2.3.1 D3 select - use D3 grab hold of elements on the screen`
 
+<h3>
 D3 select uses CSS selectors to return page elemetns, in a similar way to how jQuery works.
-The regular select function will return one element, and selectAll will return all of the matching elements on the page.
 
+The regular select function will return one element, and selectAll will return all of the matching elements on the page.
+</h3>
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/select.png" alt="common"/>
 </p>
