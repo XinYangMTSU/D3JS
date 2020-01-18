@@ -326,7 +326,9 @@ Have translation attributes for moving multiple SVGs at once
 ### `3.3.2 Margin Convention`
 
 The way that we implement the margin convention in D3 is by attaching everything to an SVGs group element.
+
 SVG group elements are containers for different shapes as elements groups don't have visual presence by themselves. 
+
 They are useful in D3 as they can bundle graphical elements together and apply transformations to many shapes at once.
 
 This code lays out the standard set up for our SVG canvas.
@@ -347,10 +349,13 @@ for an x and y axes. We can always adjust these values later on if we end up nee
 
 ## `3.4 Axes and Labels`
 
+<h3>
+  
 For most types of charts, it's important to have some kind of axes that give us a reference point to interpret data. 
 
-Using D3 axes generators in our bar chart to show the scale of our chart
-adding axis labels to tell us what we're looking at
+Using D3 axes generators in our bar chart to show the scale of our chart adding axis labels to tell us what we're looking at
+
+</h3>
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/svgCo.png" alt="common"/>
