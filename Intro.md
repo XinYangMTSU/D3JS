@@ -221,11 +221,6 @@ D3 `select` uses CSS selectors to return page elemetns, in a similar way to how 
   
 The regular select function will return one element, and `selectAll` will return all of the matching elements on the page.
 
-</h3>
-<p align="center">
-  <img src="https://github.com/XinYangSAU/D3JS/blob/master/select.png" alt="common"/>
-</p>
-
 ### `2.3.2 D3 append` - how to add SVGs onto your selection
 
 <h3>
@@ -233,11 +228,6 @@ The regular select function will return one element, and `selectAll` will return
 Once we have an element selected, we can use D3's `append` method to add something to it. 
 
 Append takes one argument, which is the type of the element that we want to add to the screen.
-
-</h3>
-<p align="center">
-  <img src="https://github.com/XinYangSAU/D3JS/blob/master/append.png" alt="common"/>
-</p>
 
 ### `2.3.3 D3 attr` - set attributes of SVGs to make them appear on the screen
 
@@ -248,6 +238,7 @@ To set the attributes of an SVG, we can pass values in with the `attr` method, w
 We pass in the attribute we want to set as the first argument to this attr method, and the value that we want to give it as the second argument.
 
 </h3>
+
 ### `2.3.4 Method Chaining` in D3 
 
 <p align="center">
@@ -263,7 +254,7 @@ The indents here are useful to break up our code, and to show which methods are 
 
 Something that might not be obvious is that each of these method calls returns something. We are only able to chain these methods together because each of the attr methods are returning the element that they're changing.  
 
-## Here in the example below, a rectangle is being drawn using D3 in an SVG container.
+### Here in the example below, a rectangle is being drawn using D3 in an SVG container.
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/rec.png" alt="common"/>
