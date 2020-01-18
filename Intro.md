@@ -133,11 +133,15 @@ Thus, the height of the SVG has to be taken into consideration when it comes to 
 
 ### `2.2.4 Let’s write some code!`
 
+<h3>
+
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Draw shapes with computer code`
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Rectangles, Circles, eclipse, lines, texts, and paths`
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Markup code similar to HTML`
+
+</h3>
 
 ### Example 1:
 <p align="center">
