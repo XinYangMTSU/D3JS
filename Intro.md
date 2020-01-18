@@ -361,6 +361,22 @@ Using D3 axes generators in our bar chart to show the scale of our chart adding 
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/svgCo.png" alt="common"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/svgCo2.png" alt="common"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/svgCo3.png" alt="common"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/svgCo4.png" alt="common"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/svgCo5.png" alt="common"/>
+</p>
+
 # `4. Make it Interactive`
 
 ## Adding tooltips to let the user view the data that an SVG represents
