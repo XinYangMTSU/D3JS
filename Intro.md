@@ -29,6 +29,8 @@ In this tutorial, we will explore the basic concepts and features of D3.js.
 
 ## `1.2 Why D3.js?`
 
+<h3>
+  
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `1. Free and Open source `
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `2. Flexibility `
@@ -36,6 +38,8 @@ In this tutorial, we will explore the basic concepts and features of D3.js.
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `3. Elegance `
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `4. Community `
+
+</h3>
 
 ## `1.3 Examples`
 
