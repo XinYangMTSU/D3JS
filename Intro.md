@@ -256,12 +256,18 @@ Something that might not be obvious is that each of these method calls returns s
 Now that you know how to work with SVGs and JavaScript, it's time to actually do something with them.
 
 <h3>  
-`The whole point of D3 is that we need to tie these SVGs to data, giving us Data Driven Documents.` 
+  
+`The whole point of D3 is that we need to tie these SVGs to data, giving us Data Driven Documents.`
+
 </h3>
 
 Once we can associate these elements with a piece of data, this lets us tweak their attributs to show something about the data that they represent.
 
+<h3>
+  
 One of the key features behind the D-3 library is the ability to perform a `data join`. `D3 reads in an array of data and associates each item of the array with an SVG`. 
+
+</h3>
 
 We'll be working with and learning how to load that data from a file.
 
