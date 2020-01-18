@@ -15,7 +15,7 @@
 ## `1.1 What is D3.js ?`
 
 <h2>
-  D3.js is a <span style="color: red">data-driven JavaScript library</span> for manipulating DOM documents based on data, which produces dynamic and interactive data visualizations. 
+  D3.js is a <strong>data-driven JavaScript library</strong> for manipulating DOM documents based on data, which produces dynamic and interactive data visualizations. 
 </h2>
   
   The data is showcased with the help of HTML, SVG and CSS, through D3.js and by binding DOM framework or Document Object Model elements.
