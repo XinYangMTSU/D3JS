@@ -77,11 +77,11 @@ Now that we'are finished with set up we're ready to start learning about SVGs an
 
 ## `2.2 Understanding SVGs`
 
-<h3>
+<h4>
 
 In this section, I'm going to go over some of the basics of SVGs, which D3 uses to visualize data on the screen. I'll teach you about how they're positioned, I'll show you some rules about placing SVGs, and I'll show you waht the syntax looks like in HTML.
 
-</h3>
+</h4>
 
 ### `2.2.1 What are SVGs?`
 
