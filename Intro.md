@@ -199,15 +199,22 @@ A path is the most powerful kind of SVG that we have avaible, and it can be used
 
 ## `2.3 Adding SVGs with D3`
 
+<h3>
+
 Although we've defined SVGs in this example using HTML-like syntax, when we use them in D3 code, we'll almost always be adding them to the canvas with JavaScript.
+
 Now that we know a little bit more about SVGs, I'm going to show you how to add them in D3, rather then in HTML file.
-I'll be introducing you to D3 select, D3 append, and D3 attr, which will be using together to make new shapes on the screen.
+
+I'll be introducing you to `D3 select`, `D3 append`, and `D3 attr`, which will be using together to make new shapes on the screen.
 
 As D3.js is a JavaScript library, you can simply include it in your HTML file inside a script tag.
 
+</h3>
+
 ### `<script src='https://d3js.org/d3.v4.min.js'></script>`
 
-### D3 `select` - use D3 grab hold of elements on the screen
+### 2.3.1 D3 `select` - use D3 grab hold of elements on the screen
+
 D3 select uses CSS selectors to return page elemetns, in a similar way to how jQuery works.
 The regular select function will return one element, and selectAll will return all of the matching elements on the page.
 
@@ -215,7 +222,8 @@ The regular select function will return one element, and selectAll will return a
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/select.png" alt="common"/>
 </p>
 
-### D3 `append` - how to add SVGs onto your selection
+### 2.3.2 D3 `append` - how to add SVGs onto your selection
+
 Once we have an element selected, we can use D3's append method to add something to it. 
 Append takes one argument, which is the type of the element that we want to add to the screen.
 
@@ -223,11 +231,12 @@ Append takes one argument, which is the type of the element that we want to add 
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/append.png" alt="common"/>
 </p>
 
-### D3 `attr` - set attributes of SVGs to make them appear on the screen
+### 2.3.3 D3 `attr` - set attributes of SVGs to make them appear on the screen
+
 To set the attributes of an SVG, we can pass values in with the attr method, which is a special D3 function that can alter attributes.
 We pass in the attribute we want to set as the first argument to this attr method, and the value that we want to give it as the second argument.
 
-### `Method Chaining` in D3 
+### 2.3.4 `Method Chaining` in D3 
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/chain.png" alt="common"/>
