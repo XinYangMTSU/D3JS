@@ -125,7 +125,7 @@ You can either include SVGs directly in an HTML file as you can see here, or you
 Something that you will notice about this code is that you need to define this SVG tag to surround everything that we want to render. That SVG tag represents the "canvas" that we'll be drawing on. Any SVG that we try to  draw outside of the canvas won't appear on the screen.
 
 
-### Introduction to the SVG Coordinate System
+### `2.2.3 Introduction to the SVG Coordinate System`
 
 SVG has a coordinate system that starts from the top left corner (0;0). Positive x-axis goes to the right, while the positive y-axis heads to the bottom. Thus, the height of the SVG has to be taken into consideration when it comes to calculating the y coordinate of an element.
 
