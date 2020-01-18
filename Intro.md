@@ -238,7 +238,7 @@ We pass in the attribute we want to set as the first argument to this attr metho
 ### `2.3.4 Method Chaining` in D3 
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/D3JS/blob/master/regVchain.png" alt="common"/>
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/regChain.png" alt="common"/>
 </p>
 
 Although we could write our code as it is on the left, in D3 we will almost always be writing it out as it is on the right.
