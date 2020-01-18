@@ -57,11 +57,15 @@ https://www.pewresearch.org/next-america/#Two-Dramas-in-Slow-Motion
 
 ## `2.1 Setting up the Environment`
 
+<h3>
+  
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Web Browser - Chrome`
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Text Editor - Atom`
 
 ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Python - HTTP Server: python -m http.server`
+
+</h3>
 
 For most of the visualizations, it is important to note that they'll need to run over a local HTTP server because our page will be sharing files between different folders. There are a few different programs that you can use for this but for this course I'll be be using the HTTP server that comes in built with Python. If you have Python already installed on your machine then it's super easy to get started. If not, then just downnload Python from the official website and make sure that you get the latest version for whichever operating system you use.
 
