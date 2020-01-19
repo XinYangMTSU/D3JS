@@ -1,0 +1,18 @@
+#chart{
+  /* background-color: pink;
+	*/
+}
+
+.legend {
+				font-size: 10px;
+}
+
+/*
+.bar {
+  fill: orange;
+}
+*/
+
+.bar:hover {
+  fill: orangered ;
+}
