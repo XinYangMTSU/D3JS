@@ -291,6 +291,10 @@ Once the data has been loaded in. We can then access this data using the `data a
 
 </h3>
 
+<p align="center">
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/correct.png" alt="common"/>
+</p>
+
 # `3. Scales and Axes`
 
 What are Scales, and why do we need them? Scales are functions that map from an input domain to an output range.
