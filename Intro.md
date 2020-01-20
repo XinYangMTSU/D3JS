@@ -291,7 +291,7 @@ Once the data has been loaded in. We can then access this data using the `data a
 
 </h3>
 
-### Adjust the Bars
+### `2.4.2 Adjust the Bars`
 
 <p align="center">
   <img src="https://github.com/XinYangSAU/D3JS/blob/master/bar2.png" alt="common"/>
