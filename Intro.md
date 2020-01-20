@@ -291,6 +291,7 @@ Once the data has been loaded in. We can then access this data using the `data a
 
 </h3>
 
+
 ### `2.4.2 Adjust the Bars`
 
 <p align="center">
