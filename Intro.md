@@ -294,7 +294,7 @@ Once the data has been loaded in. We can then access this data using the `data a
 ### Adjust the Bars
 
 <p align="center">
-  <img src="https://github.com/XinYangSAU/D3JS/blob/master/correct.png" alt="common"/>
+  <img src="https://github.com/XinYangSAU/D3JS/blob/master/bar2.png" alt="common"/>
 </p>
 
 # `3. Scales and Axes`
