@@ -98,7 +98,9 @@ All that we need to do is pass in some simple information, such where we want to
 Scalable Vector Graphics (SVG) is a way to render graphical elements and images in the DOM.
 D3 uses SVG to create all its visuals, and therefore it is a core building block of the library.
 
-The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space. ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Small file size, don't lose any qulity re resized.`
+The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space. 
+
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Small file size, don't lose any quality re resized.`
 
 </h3>
 
