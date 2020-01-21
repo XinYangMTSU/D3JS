@@ -100,7 +100,7 @@ D3 uses SVG to create all its visuals, and therefore it is a core building block
 
 The reason why D3 uses SVGs rather than images to display data is they don't lose any quality if they're resized, and they don't take up much space. 
 
-![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Small file size, don't lose any quality re resized.`
+![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `Small file size, don't lose any quality if resized.`
 
 </h3>
 
